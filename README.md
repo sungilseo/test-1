@@ -19,3 +19,5 @@
 ```
 
 [이지스퍼블리싱](http://www.easyspub.co.kr)
+
+![프로필 이미지](./Small_Samsung Wallpaper_01.jpg)
