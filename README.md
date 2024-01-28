@@ -18,4 +18,4 @@
 </script>
 ```
 
-[라렌티아](http://www.larentia.co.kr, "클릭하면 라렌티아 홈페이지로 이동합니다.")
+[이지스퍼블리싱](https://www.easyspub.co.kr, "클릭하면 이지스퍼블리싱 홈페이지로 이동합니다.")
